@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name= "GOOGLE_API_KEY">AIzaSyAf-5wnscALfd5VECw-JS-97ykvjd1EuoA</string>
+<string name= "GOOGLE_API_KEY">YOUR_KEY_HERE</string>
 
 </resources>
