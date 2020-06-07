@@ -12,6 +12,8 @@
 
 ### Creating an Android Project:
 ### Step 1- Creating a new file project with an empty activity
+ ![](https://miro.medium.com/max/840/1*sg9_J-JTg21TkDcjJTlZ6Q.png)<br><br>
+
 
 Go to Files
 Create a New Project
@@ -20,18 +22,32 @@ Select a Project Template- Basic Activity
 
 ### Step 2- Setting up YouTube Library and Manifest
 In this part, we will see how to set up the YouTube API Client library for the project.
+ ![](https://miro.medium.com/max/840/1*sK9qj_y_DODlANi-qtXwdg.png)<br><br>
+  ![](https://miro.medium.com/max/840/1*KImSydyBDDwZaadYrQdjWA.png)<br><br>
 
-Go to YouTube Android Player API and download YouTube Android Player API jar file — Link
+
+
+Go to YouTube Android Player API and download YouTube Android Player API jar file<br>
 Extract the jar files and add them to the “libs” folder.
 Integration of YouTube Android Player in Screen using Kotlin
 ### Step 1: Go to Google Developer Console — https://console.developers.google.com/apis/library/
 ### Step 2: Enable YouTube Data API
+  ![](https://miro.medium.com/max/840/1*f_tkRe2zgww2aURcXXvUdA.png)<br><br>
+
 
 ### Step 3: Go to “Help me choose” option
+  ![](https://miro.medium.com/max/1400/1*ApItZsDNpE26ALZkc5jPZA.png)<br><br>
+
 
 ### Step 4: Select the credentials as shown below
+  ![](https://miro.medium.com/max/1400/1*2BNW-yjgsnzQ1I2YnLaziQ.png)<br><br>
 
 ### Step 5: Go to Credentials
+
+  ![](https://miro.medium.com/max/1400/1*2MxMU0xeGnlO2ePLunUqFQ.png)<br><br>
+    ![](https://miro.medium.com/max/1400/1*hfGDexmoj5DCeGsNKFAwFw.png)<br><br>
+      ![](https://miro.medium.com/max/1400/1*jdMz2WaJxYSE-bQ2hnRj3g.png)<br><br>
+
 
 
 
