@@ -48,7 +48,8 @@ Integration of YouTube Android Player in Screen using Kotlin
     ![](https://miro.medium.com/max/1400/1*hfGDexmoj5DCeGsNKFAwFw.png)<br><br>
       ![](https://miro.medium.com/max/1400/1*jdMz2WaJxYSE-bQ2hnRj3g.png)<br><br>
 
-
+  ![](https://miro.medium.com/max/1400/1*pNbgmcjX0UGThhRI5Rpk0Q.png)<br><br>
+    ![](https://miro.medium.com/max/1400/1*H9-xbaUumv2O9AvF84F7oQ.png)<br><br>
 
 
 
