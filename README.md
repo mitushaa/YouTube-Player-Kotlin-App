@@ -1,4 +1,4 @@
-# YouTube Player Application using Kotlin(30 Days of Kotlin)
+# YouTube Player Application using Kotlin (30 Days of Kotlin)
 
  ![](https://miro.medium.com/max/840/1*oyjW0tejW_oiznAo4hNThA.png)<br><br>
 
